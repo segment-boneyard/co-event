@@ -1,0 +1,19 @@
+{
+  "name": "co-event",
+  "version": "0.0.1",
+  "repository": "segmentio/co-event",
+  "description": "Return any event that an emitter emits",
+  "keywords": [
+    "emitter",
+    "events",
+    "co",
+    "generators"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "co": "~3.0.5"
+  },
+  "license": "MIT"
+}
