@@ -1,6 +1,6 @@
 {
   "name": "co-event",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "repository": "segmentio/co-event",
   "description": "Return any event that an emitter emits",
   "keywords": [
