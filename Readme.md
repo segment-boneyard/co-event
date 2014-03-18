@@ -11,7 +11,7 @@ $ npm install co-event
 
 ## Example
 
- Returns events in sequence, with the `.type` and `.args` keys.
+ Returns events in sequence, with the `.type` and `.args` keys. The original events are still emitted except for "error", as node will think no handler is registered.
 
 ```js
 var event = require('co-event');
